@@ -1,0 +1,23 @@
+#
+# aliases
+#
+#
+
+alias pbcopy='xclip -selection clipboard'
+alias pbpaste='xclip -selection clipboard -o'
+alias quartus64='quartus --64bit'
+alias ls='ls --color=always -a'
+alias less='less -FSRX'
+alias grep='grep --colour=always'
+alias daeconv='~/dev/utm/plia/report/soccer/remake/Horde3D/build/Binaries/Linux/Release/ColladaConv'
+alias h3dit='~/dev/utm/plia/report/soccer/remake/Horde3D/build/Binaries/Linux/Release/Horde3DEditor'
+alias git="git --no-pager"
+alias grep='rg -p 2>/dev/null'
+
+
+alias pacman="pacaur --ignore-ood --silent"
+alias vpacman="pacaur --ignore-ood"
+alias rm="rm -f"
+alias fusesoc="fusesoc --monochrome"
+
+alias xrn="xrn -authenticator \"user/pass 117791099443/859d31af8f\""

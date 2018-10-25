@@ -1,0 +1,4 @@
+"\eOc": forward-word
+"\eOd": backward-word
+"\e[A": history-search-backward
+"\e[B": history-search-forward
